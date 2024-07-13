@@ -1,4 +1,4 @@
-What is Machine Learning?
+#What is Machine Learning?
 Machine Learning is the capability of a computer to learn and recognize patterns. For example, consider a shopkeeper who needs to record the daily loan data of his customers.
 Recording hundreds of records manually is challenging, and hiring someone would come with its own limitations (such as computational capacity, time management, and employee availability). 
 Instead, he could buy a computer system and train a model to recognize people and their loan amounts. This approach would not only make things easier for him but also help accomplish tasks
